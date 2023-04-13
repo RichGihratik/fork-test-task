@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "TeleSans";
+  src: url("/src/assets/fonts/TeleSans.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "TeleSans";
+  src: url("/src/assets/fonts/TeleSansBold.ttf");
+  font-weight: bold;
+}
+
+$gray1: #1F2229;
+$gray2: #959597;
+$gray3: #D3D9DF;
+$gray4: #EDEDED;
+$gray5: #F3F5F6;
+
+$text-color: white;
+$text-color-darken: $gray1;
+$text-color-dark: $gray2;
+
+$sm: 576px;
+$md: 768px;
+$lg: 1200px;
