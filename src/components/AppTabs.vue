@@ -25,7 +25,7 @@ const menu = useMenuStore();
 .desktop-tabs {
   font-family: "TeleSans", sans-serif;
   font-size: 14px;
-  border-bottom: $background-light 1px solid;
+  border-bottom: $gray3 1px solid;
   display: flex;
   flex-direction: row;
   padding: 0 160px;
